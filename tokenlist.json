@@ -1,6 +1,6 @@
 {
   "name": "My Test Tokens",
-  "logoURI": "https://username.github.io/my-test-token/logo.png",
+  "logoURI": "https://johnkhaywood.github.io/my-test-token/logo.png",
   "keywords": ["test", "erc20", "MTC"],
   "tokens": [
     {
@@ -9,7 +9,7 @@
       "name": "My Test Coin",
       "symbol": "MTC",
       "decimals": 18,
-      "logoURI": "https://username.github.io/my-test-token/logo.png"
+      "logoURI": "https://johnkhaywood.github.io/my-test-token/logo.png"
     }
   ]
 }
