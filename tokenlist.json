@@ -5,7 +5,7 @@
   "tokens": [
     {
       "chainId": 11155111,
-      "address": "0xYourTokenContractAddress",
+      "address": "0xd9145CCE52D386f254917e481eB44e9943F39138",
       "name": "My Test Coin",
       "symbol": "MTC",
       "decimals": 18,
